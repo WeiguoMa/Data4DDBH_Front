@@ -37,5 +37,3 @@ Each ZIP contains CSV tables. File letters match figure panels. Values are unsca
 - S11: `fixed` and `linear` are the reference densities; `off` and `on` are the averaged profiles.
 
 S1 panels a–d use `(F,x0)=(0.31,0),(0.49,0),(0.425,1),(0.425,4)`; `site=0,1` labels the two sites. The plotted S1 uncertainty band is `1.998 SE`; other plotted uncertainty bands are `1 SE`. S6 panel a averages growth from `t=300` to each listed time; panel b uses `F=0.49`. Full longitudinal profiles are retained in S8–S10 even where the figures show a smaller range.
-
-Checksums are in [SHA256SUMS](SHA256SUMS).
